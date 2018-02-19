@@ -15,7 +15,7 @@ typedef NS_ENUM(NSInteger, SCFlashMode) {
     SCFlashModeOn   = AVCaptureFlashModeOn,
     SCFlashModeAuto = AVCaptureFlashModeAuto,
     SCFlashModeLightOn,
-    SCFlashModeLightAuto 
+    SCFlashModeLightAuto
 };
 
 @class SCRecorder;
